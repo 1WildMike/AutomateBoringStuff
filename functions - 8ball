@@ -1,0 +1,24 @@
+import random
+
+def getAnswer(randomNum):
+    if randomNum == 1:
+        return "yes"
+    elif randomNum == 2:
+        return "no"    
+    elif randomNum == 3:
+        return "maybe"
+    elif randomNum == 4:
+        return "i don't know"
+    elif randomNum == 5:
+        return 'can you repeat the question?'
+    
+r = random.randint(1,5)
+
+while True:
+    print ("Ask me a question!")
+    input()
+    print(getAnswer(random.randint(1,5)))
+    continue
+    
+    if(input() == 'TERMINATE'):
+        break
