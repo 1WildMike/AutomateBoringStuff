@@ -5,7 +5,7 @@
 5) a, b
 6) 2, 4
 7) [3.14, 'cat', 11, 'cat', True, 99]
-8) [3.14, 11, 'cat', True] # not sure if we're leaving the 99 at the end or not
+8) [3.14, 11, True] # not sure if we're leaving the 99 at the end or not
 9) + & *
 10) append adds to end, insert can add anywhere
 11) .remove(), del 
