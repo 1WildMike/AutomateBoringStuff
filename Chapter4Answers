@@ -1,6 +1,6 @@
 1) [] is a List Boundary.
-2) spam.insert(2, 'hello')
-3) an error? or '3'
+2) spam.insert(2, 'hello') 
+3) an error? or '3' # I was wrong twice lmao
 4) d
 5) a, b
 6) 2, 4
