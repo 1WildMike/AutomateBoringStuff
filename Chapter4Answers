@@ -1,0 +1,17 @@
+1) [] is a List Boundary.
+2) spam.insert(2, 'hello')
+3) an error? or '3'
+4) d
+5) a, b
+6) 2, 4
+7) [3.14, 'cat', 11, 'cat', True, 99]
+8) [3.14, 11, 'cat', True] # not sure if we're leaving the 99 at the end or not
+9) + & *
+10) append adds to end, insert can add anywhere
+11) .remove(), del 
+12) can be indexed, sliced, used with for loops and operators
+13) tuples are immutable
+14) tuple = (42,)
+15) tuple[()], list(())
+16) strings and integers
+17) copy() will copy a list, deepcopy() will copy contained lists?
